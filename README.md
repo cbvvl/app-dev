@@ -31,7 +31,7 @@ Release Date: 2013
 Director: Denis Villeneuve
 
 Plot Summary:
-> In Prisoners, two young girls go missing, prompting a desperate search by their families. The film centers on Keller Dover, a father who takes extreme measures in his quest to find his daughter, and Detective Loki, who is > assigned to the case. As the investigation unfolds, it challenges moral boundaries and the lengths one would go to for their loved ones.
+> In Prisoners, two young girls go missing, prompting a desperate search by their families. The film centers on Keller Dover, a father who takes extreme measures in his quest to find his daughter, and Detective Loki, who is assigned to the case. As the investigation unfolds, it challenges moral boundaries and the lengths one would go to for their loved ones.
 
 Starring:
 
