@@ -1,9 +1,6 @@
 # app-dev
 My first repository.
 
-# app-dev
-My first repository.
-
 # Favorite Series and Movie
 
 ## 1. Mouse 
