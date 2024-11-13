@@ -8,7 +8,9 @@ My first repository.
 
 ## 1. Mouse 
 Genre: Thriller, Mystery, Crime
+
 Episodes: 20
+
 Air Date: 2021
 
 Plot Summary:
@@ -19,7 +21,9 @@ Plot Summary:
 
 ## 2. Prisoners 
 Genre: Crime, Drama, Mystery
+
 Release Date: 2013
+
 Director: Denis Villeneuve
 
 Plot Summary:
